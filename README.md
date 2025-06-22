@@ -4,7 +4,7 @@
 
 This is a simple kotlin demo of http, and it's modefied by [Fuel](https://github.com/kittinunf/Fuel)  
 
-Native FoolHttp :https://github.com/LumenVestige/AndroidFoolNativeHttp
+[Native FoolHttp](https://github.com/LumenVestige/AndroidFoolNativeHttp)
 
 ### Demo of using:  
 
